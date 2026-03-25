@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Audio"
+  },
+  {
+    "id": 2,
+    "name": "Mobile Accessories"
+  },
+  {
+    "id": 3,
+    "name": "Computer Accessories"
+  },
+  {
+    "id": 4,
+    "name": "Smart Home"
+  },
+  {
+    "id" : 5,
+    "name" : "Mobile Device"
+  }
+]

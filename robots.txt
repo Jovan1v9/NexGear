@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /author.html
+
+Allow: /
+
+Sitemap: https://jovan1v9.github.io/NexGear/sitemap.xml

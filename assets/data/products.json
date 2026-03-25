@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "name": "Apple AirPods Pro (2nd Gen)",
+    "category": 1,
+    "description": "Best-in-class earbuds with ANC and 30-hour battery.",
+    "price": 249,
+    "img": {
+      "src": "./assets/img/airpods_pro_2ndgen.png",
+      "alt": "AirPods Pro 2nd GEN earbuds"
+    },
+    "status": {
+      "isHot": true,
+      "sale": {
+        "onSale": true,
+        "discountPercent": 15
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "JBL Flip 6",
+    "category": 1,
+    "description": "Waterproof portable speaker with 12 hours of playtime.",
+    "price": 99.95,
+    "img": {
+      "src": "./assets/img/jblflip6.png",
+      "alt": "JBL Flip 6 Speaker"
+    },
+    "status": {
+      "isHot": false,
+      "sale": {
+        "onSale": false,
+        "discountPercent": 0
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5",
+    "category": 1,
+    "description": "Industry-leading noise cancelling with 30-hour battery.",
+    "price": 349.99,
+    "img": {
+      "src": "./assets/img/WH1000XM5.png",
+      "alt": "Sony WH1000XM5 Headphones"
+    },
+    "status": {
+      "isHot": true,
+      "sale": {
+        "onSale": true,
+        "discountPercent": 20
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Anker 313 USB-C Cable (3-Pack)",
+    "category": 2,
+    "description": "Durable braided USB-C cables in three lengths.",
+    "price": 13.99,
+    "img": {
+      "src": "./assets/img/AnkerUSBC_Cable.png",
+      "alt": "Anker 313 USB-C cable (3-pack)"
+    },
+    "status": {
+      "isHot": false,
+      "sale": {
+        "onSale": false,
+        "discountPercent": 0
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Anker 737 GaN Charger (120W)",
+    "category": 2,
+    "description": "120W GaN charger for laptop, tablet, and phone.",
+    "price": 55.99,
+    "img": {
+      "src": "./assets/img/Anker_Charger.png",
+      "alt": "Anker 737 Charger 120W"
+    },
+    "status": {
+      "isHot": true,
+      "sale": {
+        "onSale": false,
+        "discountPercent": 0
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Spigen Tough Armor – iPhone 15 Pro",
+    "category": 2,
+    "description": "Military-grade drop protection with built-in kickstand.",
+    "price": 19.99,
+    "img": {
+      "src": "./assets/img/Spigen_Tough_Armor.png",
+      "alt": "Spigen Tough Armor case for iPhone 15 Pro"
+    },
+    "status": {
+      "isHot": false,
+      "sale": {
+        "onSale": true,
+        "discountPercent": 25
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Belkin MagSafe 3-in-1 Wireless Charger",
+    "category": 2,
+    "description": "Charge iPhone, Apple Watch, and AirPods simultaneously.",
+    "price": 149.95,
+    "img": {
+      "src": "./assets/img/belkin_magsafe.png",
+      "alt": "Belkin MagSafe 3-in-1 Wireless Charger"
+    },
+    "status": {
+      "isHot": true,
+      "sale": {
+        "onSale": true,
+        "discountPercent": 10
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "Keychron K2 Pro",
+    "category": 3,
+    "description": "Wireless mechanical keyboard with hot-swappable switches.",
+    "price": 89.99,
+    "img": {
+      "src": "./assets/img/Keychron_K2_Pro.png",
+      "alt": "Keychron K2 Pro keyboard"
+    },
+    "status": {
+      "isHot": true,
+      "sale": {
+        "onSale": false,
+        "discountPercent": 0
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "Logitech MX Master 3S",
+    "category": 3,
+    "description": "Advanced wireless mouse with ultra-fast magnetic scrolling.",
+    "price": 124.99,
+    "img": {
+      "src": "./assets/img/mx-master-3s.png",
+      "alt": "Logitech MX Master 3S ergonomic mouse"
+    },
+    "status": {
+      "isHot": true,
+      "sale": {
+        "onSale": true,
+        "discountPercent": 15
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Nexstand K2 Laptop Stand",
+    "category": 3,
+    "description": "Foldable laptop stand with 9 adjustable height levels.",
+    "price": 34.99,
+    "img": {
+      "src": "./assets/img/nexstand-k2.png",
+      "alt": "Nexstand K2 Laptop Stand"
+    },
+    "status": {
+      "isHot": false,
+      "sale": {
+        "onSale": false,
+        "discountPercent": 0
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "Logitech C920x HD Pro Webcam",
+    "category": 3,
+    "description": "Full HD 1080p webcam with dual stereo microphones.",
+    "price": 99.99,
+    "img": {
+      "src": "./assets/img/c920s-webcam.png",
+      "alt": "Logitech C920x webcam"
+    },
+    "status": {
+      "isHot": true,
+      "sale": {
+        "onSale": true,
+        "discountPercent": 30
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "Corsair MM300 Extended Mouse Pad",
+    "category": 3,
+    "description": "Extended mouse pad with stitched edges and non-slip base.",
+    "price": 24.99,
+    "img": {
+      "src": "./assets/img/corsair_mousepad.png",
+      "alt": "Corsair MM300 Extended mousepad"
+    },
+    "status": {
+      "isHot": false,
+      "sale": {
+        "onSale": false,
+        "discountPercent": 0
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "Philips Hue White & Color A19 Bulb",
+    "category": 4,
+    "description": "Smart color bulb with 16 million colors, Alexa compatible.",
+    "price": 44.99,
+    "img": {
+      "src": "./assets/img/lightbulb.png",
+      "alt": "Philips Hue White A19 Bulb"
+    },
+    "status": {
+      "isHot": true,
+      "sale": {
+        "onSale": false,
+        "discountPercent": 0
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "Philips Hue Starter Kit (4 Bulbs + Bridge)",
+    "category": 4,
+    "description": "Complete Hue starter kit with 4 bulbs and Bridge.",
+    "price": 199.99,
+    "img": {
+      "src": "./assets/img/morelightbulbs.png",
+      "alt": "Philips Hue Starter Kit"
+    },
+    "status": {
+      "isHot": true,
+      "sale": {
+        "onSale": true,
+        "discountPercent": 15
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "Amazon Smart Plug",
+    "category": 4,
+    "description": "Voice-controlled smart plug, no hub required.",
+    "price": 24.99,
+    "img": {
+      "src": "./assets/img/Amazon_Smart_Plug.png",
+      "alt": "Belkin MagSafe 3-in-1 Wireless Charger"
+    },
+    "status": {
+      "isHot": false,
+      "sale": {
+        "onSale": true,
+        "discountPercent": 20
+      }
+    }
+  },
+  {
+    "id": 16,
+    "name": "Blink Mini Indoor Security Camera",
+    "category": 4,
+    "description": "Compact 1080p indoor camera with two-way audio.",
+    "price": 34.99,
+    "img": {
+      "src": "./assets/img/mini-black.png",
+      "alt": "Blink Mini Security Camera"
+    },
+    "status": {
+      "isHot": false,
+      "sale": {
+        "onSale": false,
+        "discountPercent": 0
+      }
+    }
+  },
+  {
+    "id": 17,
+    "name": "CalDigit TS4 Thunderbolt 4 Dock",
+    "category": 3,
+    "description": "18-port Thunderbolt 4 dock with 98W host charging.",
+    "price": 249.99,
+    "img": {
+      "src": "./assets/img/CalDigit_ts4.png",
+      "alt": "CalDigit TS4 Thunderbolt Dock"
+    },
+    "status": {
+      "isHot": true,
+      "sale": {
+        "onSale": false,
+        "discountPercent": 0
+      }
+    }
+  },
+  {
+    "id": 18,
+    "name": "Samsung 990 Pro NVMe SSD 1TB",
+    "category": 3,
+    "description": "PCIe 4.0 NVMe SSD with 7,450 MB/s read speed.",
+    "price": 134.99,
+    "img": {
+      "src": "./assets/img/samsung_nvme.png",
+      "alt": "Samsung 1TB NVMe SSD"
+    },
+    "status": {
+      "isHot": true,
+      "sale": {
+        "onSale": true,
+        "discountPercent": 18
+      }
+    }
+  },
+  {
+    "id": 19,
+    "name": "iPhone 17 PRO MAX",
+    "category": 5,
+    "description": "Powerful A19 Pro chip, 6.9-inch display, and triple 48MP cameras.",
+    "price": 1099.99,
+    "img": {
+      "src": "./assets/img/iPhone17_hero.png",
+      "alt": "iPhone 17 Pro Max"
+    },
+    "status": {
+      "isHot": true,
+      "sale": {
+        "onSale": false,
+        "discountPercent": 0
+      }
+    }
+  }
+]

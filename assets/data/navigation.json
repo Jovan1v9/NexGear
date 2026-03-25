@@ -1,0 +1,27 @@
+[
+    {
+        "text" : "Home",
+        "href" : "./index.html"
+    },
+    {
+        "text" : "Store",
+        "href" : "./store.html"
+    },
+    {
+        "text" : "Contact",
+        "href" : "./contact.html"
+    },
+    {
+        "text" : "Author",
+        "href" : "./author.html"
+    },
+    {
+        "icon" : "bi bi-file-earmark",
+        "href" : "./documentation.pdf"
+    },
+    {
+        "icon" : "bi bi-download",
+        "href" : "./nexgear.zip"
+    }
+    
+]
